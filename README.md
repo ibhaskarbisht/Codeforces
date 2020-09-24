@@ -1,2 +1,2 @@
 # Codeforces
-All Codeforces Problem that i solved
+Some good Codeforces Problems for Beginners.
